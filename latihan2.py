@@ -1,4 +1,5 @@
 print("=" * 50)
 print("Nama: Annisa Denta Revita")
 print("Nim: G50124018")
+print("Program Studi: Statistika")
 print("=" * 50)
